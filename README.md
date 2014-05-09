@@ -15,5 +15,5 @@ var findVendorTrees = require('broccoli-vendor');
 var customVendorTrees = findVendorTrees('vendor/manual_dependencies');
 ```
 
-Then pass `customVendorTrees` into other plugins to have the files in your bower
-packages picked up by them.
+Then pass `customVendorTrees` into other plugins to have the files in your manual vendor
+directory picked up by them.
