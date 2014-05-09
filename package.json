@@ -1,0 +1,18 @@
+{
+  "name": "broccoli-vendor",
+  "description": "Broccoli plugin to find non bower vendor directories",
+  "version": "0.1.0",
+  "author": "Sam Clopton <samsinite@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Samsinite/broccoli-vendor"
+  },
+  "keywords": [
+    "broccoli-plugin",
+    "vendor"
+  ],
+  "dependencies": {
+  }
+}
